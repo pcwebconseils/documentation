@@ -16,4 +16,6 @@
   - [Abondance](https://www.abondance.com/)
   - [Esquimoz](https://www.eskimoz.fr/)
   - [Search Engine Land](https://searchengineland.com/)
+  - [Seoquantum](https://www.seoquantum.com/billet)
+  - [Searchenginejournal](https://www.searchenginejournal.com/)
 
